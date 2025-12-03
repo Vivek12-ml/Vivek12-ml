@@ -2,24 +2,17 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh Tomar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right"alt="coding" width="400" src="![developer](https://github.com/user-attachments/assets/1001ca29-0200-4084-990f-eb2e16621e0b)
-">
+![developer](https://github.com/user-attachments/assets/1001ca29-0200-4084-990f-eb2e16621e0b)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek12-ml&label=Profile%20views&color=0e75b6&style=flat" alt="vivek12-ml" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning projects Mini ChatGPT (NLP Project) Python automation scripts**
-
-- 🌱 I’m currently learning **Deep Learning & Model Optimization Prompt Engineering IoT + ML integrations (ESP32, sensors)**
-
-- 👯 I’m looking to collaborate on **AI/ML Projects LLM based apps Python-based applications**
+- 🔭 I’m currently working on **Machine Learning projects Mini ChatGPT (NLP Project) Python automation scripts
 
 - 🤝 I’m looking for help with **Machine Learning Open-source projects**
 
 - 👨‍💻 All of my projects are available at [Python NumPy, Pandas, Scikit-Learn TensorFlow (basic) Git & GitHub VS Code](Python NumPy, Pandas, Scikit-Learn TensorFlow (basic) Git & GitHub VS Code)
 
 - 💬 Ask me about **Machine Learning Python Data Science basics NLP Projects**
-
-- 📫 How to reach me **Vtomar9060@gmail.com**
 
 - ⚡ Fun fact **i m funny**
 
